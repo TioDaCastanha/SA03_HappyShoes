@@ -17,7 +17,7 @@ CREATE TABLE cliente (
     nome VARCHAR(200) NOT NULL,
     endereco VARCHAR(200) NOT NULL,
     modalidade VARCHAR(200) NOT NULL
-)
+);
 ```
     
 ## Como se conectar ao banco
