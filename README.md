@@ -58,3 +58,10 @@ Caso não localize utilize a url abaixo:
 ```
 
 
+
+## Tecnologias utilizadas
+
+**Front-end:** JSP, HTML, CSS
+
+**Back-end:** Java, Wildfly, Servlet
+
