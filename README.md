@@ -18,8 +18,6 @@ CREATE TABLE cliente (
     endereco VARCHAR(200) NOT NULL,
     modalidade VARCHAR(200) NOT NULL
 )
-
-SELECT * FROM cliente
 ```
     
 ## Como se conectar ao banco
